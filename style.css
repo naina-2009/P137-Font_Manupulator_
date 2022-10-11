@@ -1,0 +1,36 @@
+.heading
+{
+    font-size: 40px;
+    color: white;
+    font-family: Montserrat;
+    font-weight: bold;
+    box-shadow: 5px 5px 45px white;
+}
+.note
+{
+    font-size: 18px;
+    font-weight: bold;
+    box-shadow: 2px 2px 10px white;
+    color: white;
+    font-family: Josefin Slab;
+}
+.copy_right_footer
+{
+    position: fixed;
+    font-family: Garamond;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: brown;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas 
+{
+    border: 10px solid white;
+    border-radius: 10%;
+}
